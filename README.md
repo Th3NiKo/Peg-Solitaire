@@ -1,5 +1,5 @@
 # Peg-Solitaire
-Peg Solitaire game created with Unity engine. (Unity v. 5.3.4)
+<a href="https://en.wikipedia.org/wiki/Peg_solitaire">Peg Solitaire</a> game created with Unity engine. (Unity v. 5.3.4)
 
 
 <img src="Media_img/bigicon.png" alt="logo" width="150" height="150">
