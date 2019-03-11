@@ -1,5 +1,6 @@
 # Peg-Solitaire
 <a href="https://en.wikipedia.org/wiki/Peg_solitaire">Peg Solitaire</a> game created with Unity engine. (Unity v. 5.3.4)
+Review 11.03.2019 - It's not responsive.
 
 
 <img src="Media_img/bigicon.png" alt="logo" width="150" height="150">
